@@ -1,13 +1,13 @@
-# vue-message
+# vue-mini-plugin
 
 >  A Vue common component library
 
 ## Installation
-    npm i vue-message --save
+    npm i vue-mini-plugin --save
 
-## Setup vueMessage
+## Setup vue-mini-plugin
     import Vue from 'vue'
-    import vueMessage from 'vue-message'
+    import vueMiniPlugin from 'vue-mini-plugin'
 
 ## Useage
     $loading()

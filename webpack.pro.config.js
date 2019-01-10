@@ -7,7 +7,7 @@ module.exports = {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     filename: 'common.js',
-    library : 'vueMessage',
+    library : 'vueMiniPlugin',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },
